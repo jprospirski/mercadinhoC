@@ -1,0 +1,64 @@
+[2025-06-22 09:18:00] -----------------------------------------
+[2025-06-22 09:18:00] Programa iniciado.
+[2025-06-22 09:18:00] Arquivo de produtos não encontrado. Um novo foi criado.
+[2025-06-22 09:18:12] -----------------------------------------
+[2025-06-22 09:18:12] Programa iniciado.
+[2025-06-22 09:18:12] Produtos carregados do arquivo para a árvore.
+[2025-06-22 09:28:30] -----------------------------------------
+[2025-06-22 09:28:30] Programa iniciado.
+[2025-06-22 09:28:30] Produtos carregados do arquivo para a árvore.
+[2025-06-22 09:28:50] -----------------------------------------
+[2025-06-22 09:28:50] Programa iniciado.
+[2025-06-22 09:28:50] Produtos carregados do arquivo para a árvore.
+[2025-06-22 09:30:25] Caixa aberto.
+[2025-06-22 09:30:25] Estoque da padaria zerado.
+[2025-06-22 09:31:06] Produto adicionado: Cod 12, Nome Detergente, Categoria LIMPEZA
+[2025-06-22 09:34:28] Produto adicionado: Cod 62, Nome Esponja, Categoria LIMPEZA
+[2025-06-22 09:35:06] Produto adicionado: Cod 50, Nome Sabonete Liqd., Categoria LIMPEZA
+[2025-06-22 09:35:34] Produto adicionado: Cod 69, Nome Vassoura, Categoria LIMPEZA
+[2025-06-22 09:36:04] Produto adicionado: Cod 16, Nome Melancia, Categoria ALIMENTOS
+[2025-06-22 09:37:06] Produto adicionado: Cod 85, Nome Queijo fatiado pct., Categoria ALIMENTOS
+[2025-06-22 09:37:35] Produto adicionado: Cod 5, Nome P�o de forma pct., Categoria PADARIA
+[2025-06-22 09:37:58] Produto adicionado: Cod 9, Nome Sonho, Categoria PADARIA
+[2025-06-22 09:38:51] Produto adicionado: Cod 96, Nome Crosaint, Categoria PADARIA
+[2025-06-22 09:45:06] Venda finalizada no valor de R$ 1022.21.
+[2025-06-22 09:46:41] Venda finalizada no valor de R$ 1448.59.
+[2025-06-22 09:47:41] Caixa fechado.
+[2025-06-22 09:47:41] Estoque da padaria zerado.
+[2025-06-22 09:56:13] Programa encerrado.
+[2025-06-22 09:56:13] -----------------------------------------
+
+[2025-06-22 09:56:32] -----------------------------------------
+[2025-06-22 09:56:32] Programa iniciado.
+[2025-06-22 09:56:32] Produtos carregados do arquivo para a árvore.
+[2025-06-22 09:56:38] -----------------------------------------
+[2025-06-22 09:56:38] Programa iniciado.
+[2025-06-22 09:56:38] Produtos carregados do arquivo para a árvore.
+[2025-06-22 13:19:10] -----------------------------------------
+[2025-06-22 13:19:10] Programa iniciado.
+[2025-06-22 13:19:10] Produtos carregados do arquivo para a árvore.
+[2025-06-22 13:31:40] -----------------------------------------
+[2025-06-22 13:31:40] Programa iniciado.
+[2025-06-22 13:31:40] Produtos carregados do arquivo para a árvore.
+[2025-06-23 10:53:06] -----------------------------------------
+[2025-06-23 10:53:06] Programa iniciado.
+[2025-06-23 10:53:06] Produtos carregados do arquivo para a árvore.
+[2025-06-23 10:53:14] Caixa aberto.
+[2025-06-23 10:53:14] Estoque da padaria zerado.
+[2025-06-23 12:44:33] -----------------------------------------
+[2025-06-23 12:44:33] Programa iniciado.
+[2025-06-23 12:44:33] Produtos carregados do arquivo para a árvore.
+[2025-06-23 13:05:19] -----------------------------------------
+[2025-06-23 13:05:19] Programa iniciado.
+[2025-06-23 13:05:19] Produtos carregados do arquivo para a árvore.
+[2025-06-23 13:05:43] -----------------------------------------
+[2025-06-23 13:05:43] Programa iniciado.
+[2025-06-23 13:05:43] Produtos carregados do arquivo para a árvore.
+[2025-06-23 13:06:24] Caixa aberto.
+[2025-06-23 13:06:24] Estoque da padaria zerado.
+[2025-06-23 14:06:04] -----------------------------------------
+[2025-06-23 14:06:04] Programa iniciado.
+[2025-06-23 14:06:04] Produtos carregados do arquivo para a árvore.
+[2025-08-01 11:45:23] -----------------------------------------
+[2025-08-01 11:45:23] Programa iniciado.
+[2025-08-01 11:45:23] Produtos carregados do arquivo para a árvore.
