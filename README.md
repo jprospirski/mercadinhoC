@@ -9,7 +9,7 @@ Desenvolvido como projeto final para a disciplina de Algoritmos e Estruturas de 
 O sistema gerencia um catálogo de produtos, controla o estoque, processa vendas em um carrinho de compras dinâmico e gera relatórios detalhados, tudo através de uma interface interativa no terminal.
 
 ## 📸 Screenshot
-[Menu Principal do Sistema](img/menu_principal.png)
+![Menu Principal do Sistema](img/menu_principal.png)
 
 ## ✨ Funcionalidades Principais
 
