@@ -10,19 +10,17 @@ O sistema gerencia um catálogo de produtos, controla o estoque, processa vendas
 
 ## 📸 Screenshots
 
-| Menu Principal | Relatório de Vendas |
-| :---: | :---: |
-| ![Menu Principal do Sistema](menu_principal.png) | ![Relatório de Vendas Ordenado](relatorio_vendas.png) |
-
-*(Substitua os nomes dos arquivos pelos que você salvou)*
+| Menu Principal |
+| :---: |
+| ![Menu Principal do Sistema](img/menu_principal.png) |
 
 ## ✨ Funcionalidades Principais
 
-* **Gestão de Produtos:** Adição de novos produtos e carregamento do estoque a partir de um arquivo. Os produtos são organizados em uma **Árvore Binária de Busca** para performance otimizada.
+* **Gestão de Produtos:** Adição de novos produtos e carregamento do estoque, organizados em uma **Árvore Binária de Busca** para performance otimizada.
 * **Carrinho de Compras:** Implementação de um carrinho dinâmico usando uma **Lista Encadeada Simples**.
 * **Sistema de Caixa:** Funcionalidades para abrir e fechar o caixa, com o saldo sendo persistido entre as sessões.
 * **Relatórios Avançados:** Geração de relatórios de produtos e vendas, com opções de ordenação por nome ou por código, utilizando a função `qsort` da biblioteca padrão.
-* **Persistência de Dados:** Todas as transações, produtos e eventos importantes são salvos em arquivos de texto (`vendas_detalhadas.txt`, `log.txt`).
+* [cite_start]**Persistência de Dados:** Os dados do programa, como produtos, vendas e logs de eventos, são salvos e carregados a partir de **arquivos de texto (.txt) criados e atualizados em tempo real** durante a execução[cite: 1, 2, 4, 5, 19, 20, 21].
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
@@ -32,4 +30,8 @@ O sistema gerencia um catálogo de produtos, controla o estoque, processa vendas
 * **Gerenciamento de Memória:** Alocação dinâmica com `malloc` e `free`.
 * **Manipulação de Arquivos:** Leitura e escrita em arquivos (`fopen`, `fprintf`, `fscanf`).
 
-## Para executar o projeto basta instalar e executar o arquivo '.exe' contido nesse repositório.
+## 🚀 Como Executar
+
+1.  Vá para a seção de **[Releases](https://github.com/jprospirski/nome-do-seu-repositorio/releases)** neste repositório.
+2.  Baixe o arquivo `mercado.exe` da versão mais recente.
+3.  Execute o arquivo no seu computador (Windows).
