@@ -8,9 +8,7 @@ Desenvolvido como projeto final para a disciplina de Algoritmos e Estruturas de 
 
 O sistema gerencia um catálogo de produtos, controla o estoque, processa vendas em um carrinho de compras dinâmico e gera relatórios detalhados, tudo através de uma interface interativa no terminal.
 
-## 📸 Screenshots
-
-| Menu Principal |
+## 📸 | Menu Principal |
 | :---: |
 | ![Menu Principal do Sistema](img/menu_principal.png) |
 
@@ -20,7 +18,7 @@ O sistema gerencia um catálogo de produtos, controla o estoque, processa vendas
 * **Carrinho de Compras:** Implementação de um carrinho dinâmico usando uma **Lista Encadeada Simples**.
 * **Sistema de Caixa:** Funcionalidades para abrir e fechar o caixa, com o saldo sendo persistido entre as sessões.
 * **Relatórios Avançados:** Geração de relatórios de produtos e vendas, com opções de ordenação por nome ou por código, utilizando a função `qsort` da biblioteca padrão.
-* [cite_start]**Persistência de Dados:** Os dados do programa, como produtos, vendas e logs de eventos, são salvos e carregados a partir de **arquivos de texto (.txt) criados e atualizados em tempo real** durante a execução[cite: 1, 2, 4, 5, 19, 20, 21].
+* **Persistência de Dados:** Os dados do programa, como produtos, vendas e logs de eventos, são salvos e carregados a partir de **arquivos de texto (.txt) criados e atualizados em tempo real** durante a execução.
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
