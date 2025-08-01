@@ -1,9 +1,0 @@
-PADARIA;5;PÆo de forma pct.;8.50;0
-PADARIA;9;Sonho;6.00;0
-LIMPEZA;12;Detergente;8.59;0
-ALIMENTOS;16;Melancia;12.21;30
-LIMPEZA;50;Sabonete Liqd.;5.40;300
-LIMPEZA;62;Esponja;12.21;360
-LIMPEZA;69;Vassoura;32.25;200
-ALIMENTOS;85;Queijo fatiado pct.;11.40;360
-PADARIA;96;Crosaint;9.00;0
